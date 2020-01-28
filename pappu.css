@@ -25,7 +25,6 @@ h1{
 	-webkit-box-flex:1;
 }
 #box:hover{
-     -webkit-transform:rotate(360deg);
 	 opacity:1;
 	 background:#FF0099;
 	 width:400px;
@@ -47,7 +46,6 @@ h1{
 	background 2s;
 }
 #box1:hover{
-     -webkit-transform:rotate(360deg);
 	 opacity:1;
 	 width:400px;
 	 background:red;
@@ -69,7 +67,6 @@ h1{
 	background 2s;
 }
 #box2:hover{
-     -webkit-transform:rotate(360deg);
 	 width:400px;
 	 height:100px;
 	 background:#FF0099;
